@@ -3,6 +3,7 @@ Come to talk about science in a social environment.
 If you want to know how computational tools and code can improve your science or you just want to drink a beer: join us.
 
 # When and Where
+We'll start the HackyHour on 22.06. and host it monthly every 4th Wednesday.
 *State when the meeting will take place* at the [PUT-YOUR-LOCATION-HERE](https://maybe-place-a-google-maps-link-or-something-similar-here.com).
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 Usually we order pizza and sit together until roughly 8pm.
@@ -14,7 +15,7 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2018-12-24 | Chrismas day | [Link an issue](https://github.com/HackyHour/template/issues/1) or [Link a pad](https://something-to-discuss-and-plan-the-meeting.com) |
+| 2022-06-22 |              | [Link a pad](https://something-to-discuss-and-plan-the-meeting.com) |
 
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
