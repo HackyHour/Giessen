@@ -1,6 +1,6 @@
 # About
 Come to talk about Code, Data, Tools and Science in a social environment.
-If you want to know how computational tools and code can improve your science/work or you just want to meet “open scienc-y” people: : join us.
+If you want to know how computational tools and code can improve your science/work or you just want to meet “open scienc-y” people: join us.
 
 # When and Where
 We'll meet monthly **every 4th Wednesday at 5 pm** for one and a half hours in the [Makerspace Giessen](https://makerspace-giessen.de/).
