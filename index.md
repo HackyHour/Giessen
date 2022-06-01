@@ -1,21 +1,26 @@
 # About
-Come to talk about science in a social environment.
-If you want to know how computational tools and code can improve your science or you just want to drink a beer: join us.
+Come to talk about Code, Data, Tools and Science in a social environment.
+If you want to know how computational tools and code can improve your science/work or you just want to meet “open scienc-y” people: : join us.
 
 # When and Where
-We'll start the HackyHour on 22.06. and host it monthly every 4th Wednesday.
-*State when the meeting will take place* at the [PUT-YOUR-LOCATION-HERE](https://maybe-place-a-google-maps-link-or-something-similar-here.com).
-You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
-Usually we order pizza and sit together until roughly 8pm.
+We'll meet monthly **every 4th Wednesday at 5 pm** for one and a half hours in the [Makerspace Giessen](https://makerspace-giessen.de/).
+[Location on OpenStreetMap](https://www.openstreetmap.org/node/8079176031).  
+No registration etc. needed.
 
-# Topics
+Please bring your own computer, as we cannot provide any resources in this regard and then can also work through installations.
+
+# Dates and Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
-Online discussions for these topics are accessible via the following links.
 
-| Date       | Summary      | Discussion |
+| Date       | Topic        | Discussion |
 | ---------- |--------------| ----------:|
-| 2022-06-22 |              | [Link a pad](https://something-to-discuss-and-plan-the-meeting.com) |
+| 2022-06-22 | Inkscape: Freely create print-ready scientific figures and posters. | [WIP](https://something-to-discuss-and-plan-the-meeting.com) |
+| 2022-07-27 | Jupyter Notebooks|[WIP](https://something-to-discuss-and-plan-the-meeting.com) |
+| 2022-08-24 | ???|
+
+# Contact
+If you like to present a topic, you can create an issue, contact [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) or present your idea at the end of a session.
 
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
@@ -24,7 +29,7 @@ This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io
 The logo is derived from the one used by HackyHour Auckland (with kind permission).
 It uses a public domain <a href="https://thenounproject.com/search/?q=hackathon&i=6324">icon</a>.
 
-![Logo of the Hackyhour](logo/hackyhour_generic.svg "Generic HackyHour Logo")
+![Logo of the Hackyhour](logo/logo-hackyhour-jlu.svg "JLU HackyHour Logo")
 
 # License
 The content of this website is available under [CC0](LICENSE).
