@@ -1,11 +1,11 @@
 # About
 Come to talk about Code, Data, Tools and Science in a social environment.
 If you want to know how computational tools and code can improve your science/work or you just want to meet “open scienc-y” people: join us.
+The event is open to everyone,no prior knowledge required, no registration etc. needed.
 
 # When and Where
-We'll meet monthly **every 4th Wednesday at 5 pm** for one and a half hours in the [Makerspace Giessen](https://makerspace-giessen.de/).
+We'll meet monthly **every fourth Wednesday at 5 pm** for one and a half hours in the [Makerspace Giessen](https://makerspace-giessen.de/).
 [Location on OpenStreetMap](https://www.openstreetmap.org/node/8079176031).  
-No registration etc. needed.
 
 Please bring your own computer, as we cannot provide any resources in this regard and then can also work through installations.
 
