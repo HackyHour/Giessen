@@ -1,7 +1,7 @@
 # About
 Come to talk about Code, Data, Tools and Science in a social environment.
 If you want to know how computational tools and code can improve your science/work or you just want to meet “open scienc-y” people: join us.
-The event is open to everyone,no prior knowledge required, no registration etc. needed.
+The event is open to everyone. No prior knowledge required. No registration etc. needed.
 
 # When and Where
 We'll meet monthly **every fourth Wednesday at 5 pm** for one and a half hours in the [Makerspace Giessen](https://makerspace-giessen.de/).
@@ -23,7 +23,7 @@ However prior knowledge or interest in these topics is not a prerequisite.
 If you like to present a topic, you can create an issue, contact [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) or present your idea at the end of a session.
 
 # Inspiration
-This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
+This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/). If you are interested in the HackyHour you should also check https://hackyhour.github.io/.
 
 # Logo
 The logo is derived from the one used by HackyHour Auckland (with kind permission).
