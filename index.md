@@ -15,8 +15,8 @@ However prior knowledge or interest in these topics is not a prerequisite.
 
 | Date       | Topic        | Discussion |
 | ---------- |--------------| ----------:|
-| 2022-06-22 | Inkscape: Freely create print-ready scientific figures and posters. | [WIP](https://something-to-discuss-and-plan-the-meeting.com) |
-| 2022-07-27 | Jupyter Notebooks|[WIP](https://something-to-discuss-and-plan-the-meeting.com) |
+| 2022-06-22 | Inkscape: Freely create print-ready scientific figures and posters. | [Notes](/notes/2022-06-22-HackyHour-1.md) |
+| 2022-07-27 | Jupyter Notebooks | [Notes](/notes/2022-07-27-HackyHour-2.md) |
 | 2022-08-24 | ???|
 
 # Contact
