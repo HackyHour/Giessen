@@ -32,4 +32,4 @@ It uses a public domain <a href="https://thenounproject.com/search/?q=hackathon&
 
 # License
 The content of this website is available under [CC0](LICENSE).
-This website uses the [minimal template](https://github.com/pages-themes/hacker/) which is also available under [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+This website uses the [minimal template](https://github.com/pages-themes/minimal) which is also available under [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
