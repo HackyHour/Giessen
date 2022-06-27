@@ -23,7 +23,7 @@ However prior knowledge or interest in these topics is not a prerequisite.
 If you like to present a topic, you can create an issue, contact [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) or present your idea at the end of a session.
 
 # Inspiration
-This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/). If you are interested in the HackyHour you should also check https://hackyhour.github.io/.
+This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/). If you are interested in the HackyHour you should also check [https://hackyhour.github.io/](https://hackyhour.github.io/).
 
 # Logo
 The logo is derived from the one used by HackyHour Auckland (with kind permission).
