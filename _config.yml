@@ -1,8 +1,8 @@
 title: HackyHour Giessen
 description: Code - Tools - Science - Help - Social
 google_analytics: 
-show_downloads: true
-theme: jekyll-theme-hacker
+show_downloads: false
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
