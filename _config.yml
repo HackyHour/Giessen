@@ -3,6 +3,7 @@ description: Code - Tools - Science - Help - Social
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-minimal
+logo: assets/img/logo/logo.svg
 
 gems:
   - jekyll-mentions
