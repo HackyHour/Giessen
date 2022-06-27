@@ -15,22 +15,21 @@ However prior knowledge or interest in these topics is not a prerequisite.
 
 | Date       | Topic        | Discussion |
 | ---------- |--------------| ----------:|
-| 2022-06-22 | Inkscape: Freely create print-ready scientific figures and posters. | [Notes](/notes/2022-06-22-HackyHour-1.md) |
-| 2022-07-27 | Jupyter Notebooks | [Notes](/notes/2022-07-27-HackyHour-2.md) |
+| 2022-06-22 | Inkscape: Freely create print-ready scientific figures and posters. | [Notes #1](/notes/2022-06-22-HackyHour-1.md) |
+| 2022-07-27 | Jupyter Notebooks | [Notes #2](/notes/2022-07-27-HackyHour-2.md) |
 | 2022-08-24 | ???|
 
 # Contact
 If you like to present a topic, you can create an issue, contact [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) or present your idea at the end of a session.
 
 # Inspiration
-This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/). If you are interested in the HackyHour you should also check [https://hackyhour.github.io/](https://hackyhour.github.io/).
+Hacky Hour in general, is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/). If you are interested in the HackyHour you should also check [https://hackyhour.github.io/](https://hackyhour.github.io/).
+The HackyHour in Gießen was also inspired and supported by [HackyHour Göttingen](https://hackyhour.github.io/Goettingen/)
 
 # Logo
 The logo is derived from the one used by HackyHour Auckland (with kind permission).
 It uses a public domain <a href="https://thenounproject.com/search/?q=hackathon&i=6324">icon</a>.
 
-![Logo of the Hackyhour](logo/logo-hackyhour-jlu.svg "JLU HackyHour Logo")
-
 # License
 The content of this website is available under [CC0](LICENSE).
-This website uses the [hacker template](https://github.com/pages-themes/hacker/) which is also available under [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+This website uses the [minimal template](https://github.com/pages-themes/hacker/) which is also available under [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
