@@ -20,7 +20,7 @@ However prior knowledge or interest in these topics is not a prerequisite.
 | 2022-06-22 | Inkscape: Freely create print-ready scientific figures and posters. | [Notes #1](/notes/2022-06-22-HackyHour-1.md) |
 | 2022-07-27 | Jupyter Notebooks | [Notes #2](/notes/2022-07-27-HackyHour-2.md)
 | 2022-08-24 | **Canceled due to holidays**||
-| 2022-09-28 | Semantic Media Wiki, pandoc  |   |
+| 2022-09-28 | Semantic Media Wiki, Licenses, pandoc  |   |
 
 
 # Contact
