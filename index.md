@@ -5,7 +5,7 @@ The event is open to everyone. No prior knowledge required. No registration etc.
 
 # When and Where
 We'll meet monthly **every fourth Wednesday at 5 pm** for one and a half hours in the [Makerspace Giessen](https://makerspace-giessen.de/).
-[Location on OpenStreetMap](https://www.openstreetmap.org/node/8079176031).  
+[Location on OpenStreetMap](https://www.openstreetmap.org/node/8079176031).
 
 Please bring your own computer, as we cannot provide any resources in this regard and then can also work through installations.
 
@@ -18,8 +18,10 @@ However prior knowledge or interest in these topics is not a prerequisite.
 | Date       | Topic        | Discussion |
 | ---------- |--------------| ----------:|
 | 2022-06-22 | Inkscape: Freely create print-ready scientific figures and posters. | [Notes #1](/notes/2022-06-22-HackyHour-1.md) |
-| 2022-07-27 | Jupyter Notebooks | [Notes #2](/notes/2022-07-27-HackyHour-2.md) |
-| 2022-08-24 | ???|
+| 2022-07-27 | Jupyter Notebooks | [Notes #2](/notes/2022-07-27-HackyHour-2.md)
+| 2022-08-24 | **Canceled due to holidays**||
+| 2022-09-28 | Semantic Media Wiki, pandoc  |   |
+
 
 # Contact
 If you like to present a topic, you can create an issue, contact [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) or present your idea at the end of a session.
