@@ -25,6 +25,7 @@ However prior knowledge or interest in these topics is not a prerequisite.
 
 # Contact
 If you like to present a topic, you can create an issue, contact [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) or present your idea at the end of a session.
+You could also subscribe to our [mailing list](hackyhour-giessen@lists.uni-giessen.de).
 
 # Inspiration
 Hacky Hour in general, is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/). If you are interested in the HackyHour you should also check [https://hackyhour.github.io/](https://hackyhour.github.io/).
