@@ -18,14 +18,15 @@ However prior knowledge or interest in these topics is not a prerequisite.
 | Date       | Topic        | Discussion |
 | ---------- |--------------| ----------:|
 | 2022-06-22 | Inkscape: Freely create print-ready scientific figures and posters. | [Notes #1](/notes/2022-06-22-HackyHour-1.md) |
-| 2022-07-27 | Jupyter Notebooks | [Notes #2](/notes/2022-07-27-HackyHour-2.md)
+| 2022-07-27 | Jupyter Notebooks | [Notes #2](/notes/2022-07-27-HackyHour-2.md)|
 | 2022-08-24 | **Canceled due to holidays**||
-| 2022-09-28 | Semantic Media Wiki, Licenses, pandoc  |   |
+| 2022-09-28 | Semantic Media Wiki, ~~Licenses~~, pandoc  |[Notes #3](/notes/2022-09-28-HackyHour-3.md)|
+| 2022-10-26 | Licenses, Datascraping | |
 
 
 # Contact
 If you like to present a topic, you can create an issue, contact [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) or present your idea at the end of a session.
-You could also subscribe to our [mailing list](hackyhour-giessen@lists.uni-giessen.de).
+You could also subscribe to our [mailing list](https://lists.uni-giessen.de/sympa/info/hackyhour-giessen).
 
 # Inspiration
 Hacky Hour in general, is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/). If you are interested in the HackyHour you should also check [https://hackyhour.github.io/](https://hackyhour.github.io/).
