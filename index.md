@@ -3,6 +3,9 @@ Come to talk about Code, Data, Tools and Science in a social environment.
 If you want to know how computational tools and code can improve your science/work or you just want to meet “open scienc-y” people: join us.
 The event is open to everyone. No prior knowledge required. No registration etc. needed.
 
+If you'd like to watch a video about what HackyHour is, Florian explained it in a [Coffee Lecture][coffee].
+
+[coffee]:https://youtu.be/nV1UqTOsesw
 # When and Where
 We'll meet monthly **every fourth Wednesday at 5 pm** for one and a half hours in the [Makerspace Giessen](https://makerspace-giessen.de/).
 [Location on OpenStreetMap](https://www.openstreetmap.org/node/8079176031).
@@ -21,7 +24,8 @@ However prior knowledge or interest in these topics is not a prerequisite.
 | 2022-07-27 | Jupyter Notebooks | [Notes #2](/notes/2022-07-27-HackyHour-2.md)|
 | 2022-08-24 | **Canceled due to holidays**||
 | 2022-09-28 | Semantic Media Wiki, ~~Licenses~~, pandoc  |[Notes #3](/notes/2022-09-28-HackyHour-3.md)|
-| 2022-10-26 | Licenses, Datascraping | |
+| 2022-10-26 | ~~Licenses~~, Datascraping | |
+| 2022-11-23 | Licenses | |
 
 
 # Contact
