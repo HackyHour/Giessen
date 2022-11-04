@@ -24,8 +24,8 @@ However prior knowledge or interest in these topics is not a prerequisite.
 | 2022-07-27 | Jupyter Notebooks | [Notes #2](/notes/2022-07-27-HackyHour-2.md)|
 | 2022-08-24 | **Canceled due to holidays**||
 | 2022-09-28 | Semantic Media Wiki, ~~Licenses~~, pandoc  |[Notes #3](/notes/2022-09-28-HackyHour-3.md)|
-| 2022-10-26 | ~~Licenses~~, Datascraping | |
-| 2022-11-23 | Licenses | |
+| 2022-10-26 | ~~Licenses~~, Datascraping | [Notes #4](/notes/2022-10-26-HackyHour-4.md)|
+| 2022-11-23 | "License my if you can... or if you are allowed to", <br>"Markdown-Based-Note-Taking-Apps",<br>"Visualization of Relational Data"  | [Notes #5](/notes/2022-11-23-HackyHour-5.md)|
 
 
 # Contact
