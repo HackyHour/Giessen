@@ -12,7 +12,7 @@ We'll meet monthly **every fourth Wednesday at 5 pm** for one and a half hours i
 
 Please bring your own computer, as we cannot provide any resources in this regard and then can also work through installations.
 
-![HackyHour #1](/assets/img/HackyHour-1.png)
+![HackyHour #1](/assets/img/HackyHour-1.jpg)
 
 # Dates and Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
