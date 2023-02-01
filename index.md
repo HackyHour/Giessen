@@ -27,7 +27,9 @@ However prior knowledge or interest in these topics is not a prerequisite.
 | 2022-10-26 | ~~Licenses~~, Datascraping | [Notes #4](/notes/2022-10-26-HackyHour-4.md)|
 | 2022-11-23 | "License me if you can... or if you are allowed to", <br>"Markdown-based-Note-Taking-Apps",<br>"Visualization of Relational Data"  | [Notes #5](/notes/2022-11-23-HackyHour-5.md)|
 | 2022-12-28 | **Canceled due to holidays**||
-| 2023-01-25 | AI-Introduction, AI-Assistants | ** [Notes #6](/notes/2023-01-25-HackyHour-6.md)|
+| 2023-01-25 | AI-Introduction, AI-Assistants | [Notes #6](/notes/2023-01-25-HackyHour-6.md)|
+| 2023-02-22 | AIs impact on teaching<br> This event will be a collaboration with
+Hessenhub.<br>You can find a detailed event description [on their site](https://www.uni-giessen.de/de/fbz/zentren/zfbk/hessenhub/news/ki_hochschullehre)| [Notes #7](/notes/2023-02-22-HackyHour-7.md)|
 
 # Contact
 If you like to present a topic, you can create an issue, contact [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) or present your idea at the end of a session.
