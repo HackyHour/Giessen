@@ -29,7 +29,7 @@ However prior knowledge or interest in these topics is not a prerequisite.
 | 2022-12-28 | **Canceled due to holidays**||
 | 2023-01-25 | AI-Introduction, AI-Assistants | [Notes #6](/notes/2023-01-25-HackyHour-6.md)|
 | 2023-02-22 | AIs impact on teaching. This event will be a collaboration with Hessenhub.You can find a detailed event description [on their site][hessenhub] | [Notes #7](/notes/2023-02-22-HackyHour-7.md)|
-| 2023-03-22 | TBA | [Notes #8](/notes/2023-03-22-HackyHour-8.md)
+| 2023-03-22 | Prototyping | [Notes #8](/notes/2023-03-22-HackyHour-8.md)
 | 2023-04-26 |  Using continuous intigration in teaching | [Notes #9](/notes/2023-04-26-HackyHour-8.md)
 
 # Contact
