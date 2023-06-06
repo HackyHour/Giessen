@@ -31,8 +31,8 @@ However prior knowledge or interest in these topics is not a prerequisite.
 | 2023-02-22 | AIs impact on teaching. This event will be a collaboration with Hessenhub.You can find a detailed event description [on their site][hessenhub] | [Notes #7](/notes/2023-02-22-HackyHour-7.md)|
 | 2023-03-22 | Prototyping | [Notes #8](/notes/2023-03-22-HackyHour-8.md)
 | 2023-04-26 | Using continuous intigration in teaching | [Notes #9](/notes/2023-04-26-HackyHour-9.md)
-| 2023-05-24 | Introduction to Ansible | [Notes #10](/notes/2023-05-25-HackyHour-10.md)
-| 2023-06-28 | AI models (LLMs) on your desktop computer | [Notes #11](/notes/2023-0-28-HackyHour-11.md)
+| 2023-05-24 | Introduction to Ansible | [Notes #10](/notes/2023-05-24-HackyHour-10.md)
+| 2023-06-28 | AI models (LLMs) on your desktop computer | [Notes #11](/notes/2023-06-28-HackyHour-11.md)
 
 # Contact
 If you like to present a topic, you can create an issue, contact [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) or present your idea at the end of a session.
