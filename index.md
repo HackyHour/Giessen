@@ -33,6 +33,7 @@ However prior knowledge or interest in these topics is not a prerequisite.
 | 2023-04-26 | Using continuous intigration in teaching | [Notes #9](/notes/2023-04-26-HackyHour-9.md)
 | 2023-05-24 | Introduction to Ansible | [Notes #10](/notes/2023-05-24-HackyHour-10.md)
 | 2023-06-28 | AI models (LLMs) on your desktop computer | [Notes #11](/notes/2023-06-28-HackyHour-11.md)
+| 2023-07-26 | What is Git?,<br> How to use GitLab as a scientist| [Notes #12](/notes/2023-07-26-HackyHour-12.md)
 
 # Contact
 If you like to present a topic, you can create an issue, contact [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) or present your idea at the end of a session.
