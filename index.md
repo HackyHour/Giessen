@@ -18,7 +18,7 @@ Please bring your own computer, as we cannot provide any resources in this regar
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
 
-| Date       | Topic        | Discussion |
+| Date       | Topic        | Notes |
 | ---------- |--------------| ----------:|
 | 2022-06-22 | Inkscape: Freely create print-ready scientific figures and posters. | [Notes #1](/notes/2022-06-22-HackyHour-1.md) |
 | 2022-07-27 | Jupyter Notebooks | [Notes #2](/notes/2022-07-27-HackyHour-2.md)|
@@ -34,6 +34,11 @@ However prior knowledge or interest in these topics is not a prerequisite.
 | 2023-05-24 | Introduction to Ansible | [Notes #10](/notes/2023-05-24-HackyHour-10.md)
 | 2023-06-28 | AI models (LLMs) on your desktop computer | [Notes #11](/notes/2023-06-28-HackyHour-11.md)
 | 2023-07-26 | What is Git?,<br> How to use GitLab as a scientist| [Notes #12](/notes/2023-07-26-HackyHour-12.md)
+| 2023-08-23 | **No event due to holidays**||
+| 2023-09-27 | TBA|[Notes #13](/notes/2023-09-27-HackyHour-13.md)|
+| 2023-10-25 | TBA|[Notes #14](/notes/2023-10-25-HackyHour-14.md)|
+| 2023-11-22 | TBA|[Notes #15](/notes/2023-11-22-HackyHour-15.md)|
+| 2023-12-27 | **No event due to holidays**||
 
 # Contact
 If you like to present a topic, you can create an issue, contact [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) or present your idea at the end of a session.
