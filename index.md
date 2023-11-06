@@ -37,7 +37,7 @@ However prior knowledge or interest in these topics is not a prerequisite.
 | 2023-08-23 | **No event due to holidays**||
 | 2023-09-27 | Open Discussion |[Notes #13](/notes/2023-09-27-HackyHour-13.md)|
 | 2023-10-25 | Backups, Horse skull model in augmented reality|[Notes #14](/notes/2023-10-25-HackyHour-14.md)|
-| 2023-11-22 | TBA|[Notes #15](/notes/2023-11-22-HackyHour-15.md)|
+| 2023-11-22 | Kubernetes |[Notes #15](/notes/2023-11-22-HackyHour-15.md)|
 | 2023-12-27 | **No event due to holidays**||
 
 # Contact
