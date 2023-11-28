@@ -1,59 +1,80 @@
-# About
-Come to talk about Code, Data, Tools and Science in a social environment.
-If you want to know how computational tools and code can improve your science/work or you just want to meet “open scienc-y” people: join us.
-The event is open to everyone. No prior knowledge required. No registration etc. needed.
+# HackyHour Gießen
+ 
+Eine englische Version dieser Seite findest du [hier](/index_en.md)/You can find an English version kof this page here(/index_en.md).
 
-If you'd like to watch a video about what HackyHour is, Florian explained it in a [Coffee Lecture][coffee].
+## Was ist die HackyHour?
+Wir treffen uns einmal im Monat in lockerer Atmosphäre und tauschen uns über Code, Daten, Tools und Wissenschaft aus. Die HackyHour ist offen für alle Interessierten und man kann einfach vorbeischauen ohne sich vorher anzumelden. Die Themen variieren von mal zu mal. [Unten](#kommende-termine) findest du eine Liste anstehender und vergangener Termine.
+ 
+Die Vorträge werden auf Deutsch gehalten. So wollen wir Barrieren im technischen Bereich abbauen und einsteigerfreundlich bleiben. [Früher waren unsere Termine auf Englisch, jetzt auf Deutsch.]
 
+Florian hat die HackyHour bei einem [Vortrag][coffee] mal auf Englisch erklärt.
+ 
 [coffee]:https://youtu.be/nV1UqTOsesw
-# When and Where
-We'll meet monthly **every fourth Wednesday at 5 pm** for one and a half hours in the [Makerspace Giessen](https://makerspace-giessen.de/).
-[Location on OpenStreetMap](https://www.openstreetmap.org/node/8079176031).
 
-Please bring your own computer, as we cannot provide any resources in this regard and then can also work through installations.
-
+## Wann und wo?
+Jeden vierten Mittwoch um 17 Uhr für ca. eineinhalb Stunden im [Makerspace Giessen](https://makerspace-giessen.de/). Mehr zur [Anfahrt](https://makerspace-giessen.de/allgemeines/#anfahrt).
+ 
+Ihr müsst nichts mitbringen. Falls ihr ein Laptop habt, bringt es gerne mit; es gibt bestimmt etwas auszuprobieren!
+ 
 ![HackyHour #1](/assets/img/HackyHour-1.jpg)
+ 
+ 
+## Kommende Termine
 
-# Dates and Topics
-In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
-However prior knowledge or interest in these topics is not a prerequisite.
+Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer über mindestens ein spezifisches Thema zu reden. Dazu führt meistens eine Person in das Thema ein und dann ist Zeit für Fragen und Diskussion. Wenn du auch etwas vortragen möchtest, melde dich gerne bei uns (siehe Kontakt unten).
+ 
+| Datum | Thema | Weitere Infos |
+| ---------- | ------------| ----------:|
+| 27.12.2023 | Keine HackyHour wegen Weihnachtsferien |
+| 24.01.2024 | Einführung in die Virtual Reality (mit selber Ausprobieren) | Um den Bedarf an VR-Brillen besser planen zu können, schreibe Bitte an <a href="mailto:hristian.krippes@bibsys.uni-giessen.de?subject=Ich komme zur HackyHour am 24.01.2024">Christian Krippes</a> falls du vor hast die HackyHour an diesem Termin zu besuchen. Der Betreff
+genügt, du brauchst keinen Text schreiben.
 
-| Date       | Topic        | Notes |
+-> Die vergangenen Termine findest du [weiter unten](#vergangene-termine).
+ 
+## Kontakt
+
+Solltest du ein Thema präsentieren wollen, kannst du einfach ein Issue im GitHub eröffnen oder [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) kontaktieren. Du hast auch immer die Möglichkeit bei der HackyHour selbst mit uns zu sprechen oder dein Thema direkt im Anschluss zu präsentieren, wenn noch Zeit ist. Die Vorträge sind frei gestaltbar.
+
+## Vergangene Termine
+
+Die vergangenen Termine waren überwiegend auf Englisch, daher sind auch 
+die Notizen überwiegend in englischer Sprache. Ab HackyHour 15 versuchen
+wir Notizen in Deutsch und Englisch anzubieten.
+
+| Datum | Thema | Notizen & Zusammenfassungen |
 | ---------- |--------------| ----------:|
-| 2022-06-22 | Inkscape: Freely create print-ready scientific figures and posters. | [Notes #1](/notes/2022-06-22-HackyHour-1.md) |
-| 2022-07-27 | Jupyter Notebooks | [Notes #2](/notes/2022-07-27-HackyHour-2.md)|
-| 2022-08-24 | **Canceled due to holidays**||
-| 2022-09-28 | Semantic Media Wiki, ~~Licenses~~, pandoc  |[Notes #3](/notes/2022-09-28-HackyHour-3.md)|
-| 2022-10-26 | ~~Licenses~~, Datascraping | [Notes #4](/notes/2022-10-26-HackyHour-4.md)|
-| 2022-11-23 | "License me if you can... or if you are allowed to", <br>"Markdown-based-Note-Taking-Apps",<br>"Visualization of Relational Data"  | [Notes #5](/notes/2022-11-23-HackyHour-5.md)|
-| 2022-12-28 | **Canceled due to holidays**||
-| 2023-01-25 | AI-Introduction, AI-Assistants | [Notes #6](/notes/2023-01-25-HackyHour-6.md)|
-| 2023-02-22 | AIs impact on teaching. This event will be a collaboration with Hessenhub.You can find a detailed event description [on their site][hessenhub] | [Notes #7](/notes/2023-02-22-HackyHour-7.md)|
-| 2023-03-22 | Prototyping | [Notes #8](/notes/2023-03-22-HackyHour-8.md)
-| 2023-04-26 | Using continuous intigration in teaching | [Notes #9](/notes/2023-04-26-HackyHour-9.md)
-| 2023-05-24 | Introduction to Ansible | [Notes #10](/notes/2023-05-24-HackyHour-10.md)
-| 2023-06-28 | AI models (LLMs) on your desktop computer | [Notes #11](/notes/2023-06-28-HackyHour-11.md)
-| 2023-07-26 | What is Git?,<br> How to use GitLab as a scientist| [Notes #12](/notes/2023-07-26-HackyHour-12.md)
-| 2023-08-23 | **No event due to holidays**||
-| 2023-09-27 | Open Discussion |[Notes #13](/notes/2023-09-27-HackyHour-13.md)|
+| 2023-11-22 | Kubernetes: Überblick & Einführung |[Notes #15](/notes/2023-11-22-HackyHour-15.md)
 | 2023-10-25 | Backups, Horse skull model in augmented reality|[Notes #14](/notes/2023-10-25-HackyHour-14.md)|
-| 2023-11-22 | Kubernetes |[Notes #15](/notes/2023-11-22-HackyHour-15.md)|
-| 2023-12-27 | **No event due to holidays**||
-
-# Contact
-If you like to present a topic, you can create an issue, contact [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) or present your idea at the end of a session.
-You could also subscribe to our [mailing list](https://lists.uni-giessen.de/sympa/info/hackyhour-giessen).
-
-# Inspiration
-Hacky Hour in general, is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/). If you are interested in the HackyHour you should also check [https://hackyhour.github.io/](https://hackyhour.github.io/).
-The HackyHour in Gießen was also inspired and supported by [HackyHour Göttingen](https://hackyhour.github.io/Goettingen/)
-
-# Logo
-The logo is derived from the one used by HackyHour Auckland (with kind permission).
-It uses a public domain <a href="https://thenounproject.com/search/?q=hackathon&i=6324">icon</a>.
-
-# License
-The content of this website is available under [CC0](LICENSE).
-This website uses the [minimal template](https://github.com/pages-themes/minimal) which is also available under [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+| 2023-09-27 | Open Discussion |[Notes #13](/notes/2023-09-27-HackyHour-13.md)|
+| 2023-08-23 | **No event due to holidays**||
+| 2023-07-26 | What is Git?,<br> How to use GitLab as a scientist| [Notes #12](/notes/2023-07-26-HackyHour-12.md)
+| 2023-06-28 | AI models (LLMs) on your desktop computer | [Notes #11](/notes/2023-06-28-HackyHour-11.md)
+| 2023-05-24 | Introduction to Ansible | [Notes #10](/notes/2023-05-24-HackyHour-10.md)
+| 2023-04-26 | Using continuous intigration in teaching | [Notes #9](/notes/2023-04-26-HackyHour-9.md)
+| 2023-03-22 | Prototyping | [Notes #8](/notes/2023-03-22-HackyHour-8.md)
+| 2023-02-22 | AIs impact on teaching. This event will be a collaboration with Hessenhub.You can find a detailed event description [on their site][hessenhub] | [Notes #7](/notes/2023-02-22-HackyHour-7.md)|
+| 2023-01-25 | AI-Introduction, AI-Assistants | [Notes #6](/notes/2023-01-25-HackyHour-6.md)|
+| 2022-12-28 | **Canceled due to holidays**||
+| 2022-11-23 | "License me if you can... or if you are allowed to", <br>"Markdown-based-Note-Taking-Apps",<br>"Visualization of Relational Data" | [Notes #5](/notes/2022-11-23-HackyHour-5.md)|
+| 2022-10-26 | Datascraping | [Notes #4](/notes/2022-10-26-HackyHour-4.md)|
+| 2022-09-28 | Semantic Media Wiki, pandoc |[Notes #3](/notes/2022-09-28-HackyHour-3.md)|
+| 2022-08-24 | **Canceled due to holidays**||
+| 2022-07-27 | Jupyter Notebooks | [Notes #2](/notes/2022-07-27-HackyHour-2.md)|
+| 2022-06-22 | Inkscape: Freely create print-ready scientific figures and posters. | [Notes #1](/notes/2022-06-22-HackyHour-1.md) |
 
 [hessenhub]:https://www.uni-giessen.de/de/fbz/zentren/zfbk/hessenhub/news/ki_hochschullehre
+
+## Inspiration
+
+Die HackyHour als Format ist inspiriert von der [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) und der [R Study Group](http://minisciencegirl.github.io/studyGroup/). Bei Interesse schau dir auch die Seite [https://hackyhour.github.io/](https://hackyhour.github.io/) an.
+Die HackyHour in Gießen wurde auch von der [HackyHour Göttingen](https://hackyhour.github.io/Goettingen/) inspiriert und supportet.
+ 
+## Logo
+
+Das Logo ist abgeleitet von der HackyHour Auckland (mit freundlicher Genehmigung).
+Es nutzt ein public domain <a href="https://thenounproject.com/search/?q=hackathon&i=6324">icon</a>.
+
+## Lizenz
+
+Der Inhalt dieser Webseite steht under der [CC0](LICENSE).
+Das Design basiert auf dem [minimal template](https://github.com/pages-themes/minimal) welches ebenso unter der [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) lizensiert ist.
