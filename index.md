@@ -1,6 +1,6 @@
 # HackyHour Gießen
  
-Eine englische Version dieser Seite findest du [hier](/index_en.md)/You can find an English version of this page here(/index_en.md).
+Eine englische Version dieser Seite findest du [hier](./index_en.md)/You can find an English version of this page here(/index_en.md).
 
 ## Was ist die HackyHour?
 Wir treffen uns einmal im Monat in lockerer Atmosphäre und tauschen uns über Code, Daten, Tools und Wissenschaft aus. Die HackyHour ist offen für alle Interessierten und man kann einfach vorbeischauen ohne sich vorher anzumelden. Die Themen variieren von mal zu mal. [Unten](#kommende-termine) findest du eine Liste anstehender und vergangener Termine.
@@ -24,10 +24,9 @@ Ihr müsst nichts mitbringen. Falls ihr ein Laptop habt, bringt es gerne mit; es
 Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer über mindestens ein spezifisches Thema zu reden. Dazu führt meistens eine Person in das Thema ein und dann ist Zeit für Fragen und Diskussion. Wenn du auch etwas vortragen möchtest, melde dich gerne bei uns (siehe Kontakt unten).
  
 | Datum | Thema | Weitere Infos |
-| ---------- | ------------| ----------:|
+| ---------- | ------------| ----------|
 | 27.12.2023 | Keine HackyHour wegen Weihnachtsferien |
-| 24.01.2024 | Einführung in die Virtual Reality (mit selber Ausprobieren) | Um den Bedarf an VR-Brillen besser planen zu können, schreibe Bitte an <a href="mailto:hristian.krippes@bibsys.uni-giessen.de?subject=Ich komme zur HackyHour am 24.01.2024">Christian Krippes</a> falls du vor hast die HackyHour an diesem Termin zu besuchen. Der Betreff
-genügt, du brauchst keinen Text schreiben.
+| 24.01.2024 | Einführung in die Virtual Reality (mit selber Ausprobieren) | Um den Bedarf an VR-Brillen besser planen zu können, schreibe Bitte an <a href="mailto:hristian.krippes@bibsys.uni-giessen.de?subject=Ich komme zur HackyHour am 24.01.2024">Christian Krippes</a> falls du vor hast die HackyHour an diesem Termin zu besuchen. Der Betreff genügt, du brauchst keinen Text schreiben.
 
 -> Die vergangenen Termine findest du [weiter unten](#vergangene-termine).
  
