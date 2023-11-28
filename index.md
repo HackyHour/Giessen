@@ -26,7 +26,7 @@ Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer übe
 | Datum | Thema | Weitere Infos |
 | ---------- | ------------| ----------|
 | 27.12.2023 | Keine HackyHour wegen Weihnachtsferien |
-| 24.01.2024 | Einführung in die Virtual Reality (mit selber Ausprobieren) | Um den Bedarf an VR-Brillen besser planen zu können, schreibe Bitte an <a href="mailto:hristian.krippes@bibsys.uni-giessen.de?subject=Ich komme zur HackyHour am 24.01.2024">Christian Krippes</a> falls du vor hast die HackyHour an diesem Termin zu besuchen. Der Betreff genügt, du brauchst keinen Text schreiben.
+| 24.01.2024 | Einführung in die Virtual Reality (mit selber Ausprobieren) | Um den Bedarf an VR-Brillen besser planen zu können, schreibe bitte an <a href="mailto:hristian.krippes@bibsys.uni-giessen.de?subject=Ich komme zur HackyHour am 24.01.2024">Christian Krippes</a> falls du vor hast, die HackyHour an diesem Termin zu besuchen. Der Betreff genügt, du brauchst keinen Text schreiben.
 
 -> Die vergangenen Termine findest du [weiter unten](#vergangene-termine).
  
