@@ -1,6 +1,6 @@
 # HackyHour Gießen
  
-Eine englische Version dieser Seite findest du [hier](./index_en.md)/You can find an English version of this page here(/index_en.md).
+Eine englische Version dieser Seite findest du [hier](./index_en.md)/You can find an English version of this page [here](./index_en.md).
 
 ## Was ist die HackyHour?
 Wir treffen uns einmal im Monat in lockerer Atmosphäre und tauschen uns über Code, Daten, Tools und Wissenschaft aus. Die HackyHour ist offen für alle Interessierten und man kann einfach vorbeischauen ohne sich vorher anzumelden. Die Themen variieren von mal zu mal. [Unten](#kommende-termine) findest du eine Liste anstehender und vergangener Termine.
