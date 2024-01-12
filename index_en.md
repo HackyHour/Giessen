@@ -39,7 +39,7 @@ If you want to present an issue, you can simply open an issue in GitHub or conta
 
 The past dates were mainly in English, so the notes are also mainly in English. From HackyHour 15 onwards, we will try to offer the notes in German and English.
 
-| Datum | Thema | Notizen & Zusammenfassungen |
+| Date | Topic | Notes & summaries |
 | ---------- |--------------| ----------:|
 | 2023-11-22 | Kubernetes: Overview & Introduction |[Notes #15](/notes/2023-11-22-HackyHour-15.md)
 | 2023-10-25 | Backups, Horse skull model in augmented reality|[Notes #14](/notes/2023-10-25-HackyHour-14.md)|
