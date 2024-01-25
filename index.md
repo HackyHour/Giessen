@@ -25,8 +25,11 @@ Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer übe
  
 | Datum | Thema | Weitere Infos |
 | ---------- | ------------| ----------|
-| 27.12.2023 | Keine HackyHour wegen Weihnachtsferien |
-| 24.01.2024 | Einführung in die Virtual Reality (mit selber Ausprobieren) | Um den Bedarf an VR-Brillen besser planen zu können, schreibe bitte an <a href="mailto:christian.krippes@bibsys.uni-giessen.de?subject=Ich komme zur HackyHour am 24.01.2024">Christian Krippes</a> falls du vor hast, die HackyHour an diesem Termin zu besuchen. Der Betreff genügt, du brauchst keinen Text schreiben.
+| 28.02.2024| Offene Diskussion ||
+| 27.03.2024| Wird noch bekannt gegeben ||
+| 24.04.2024| Wird noch bekannt gegeben ||
+| 22.05.2024| Wird noch bekannt gegeben ||
+| 26.06.2024| Wird noch bekannt gegeben ||
 
 -> Die vergangenen Termine findest du [weiter unten](#vergangene-termine).
  
@@ -42,6 +45,8 @@ wir Notizen in Deutsch und Englisch anzubieten.
 
 | Datum | Thema | Notizen & Zusammenfassungen |
 | ---------- |--------------| ----------:|
+| 24.01.2024 | Einführung in die Virtual Reality (mit selber Ausprobieren)| [Notes #16](/notes/2024-01-24-HackyHour-16.md)
+| 27.12.2023 | Keine HackyHour wegen Weihnachtsferien ||
 | 2023-11-22 | Kubernetes: Überblick & Einführung |[Notes #15](/notes/2023-11-22-HackyHour-15.md)
 | 2023-10-25 | Backups, Horse skull model in augmented reality|[Notes #14](/notes/2023-10-25-HackyHour-14.md)|
 | 2023-09-27 | Open Discussion |[Notes #13](/notes/2023-09-27-HackyHour-13.md)|

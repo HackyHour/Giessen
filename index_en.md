@@ -26,8 +26,11 @@ In addition to the open discussion that is always possible, we always try to tal
 
 | Date | Topic |
 | ---------- | ------------:|
-| 27.12.2023 | No HackyHour due to Christmas vacations |
-| 24.01.2024 | Introduction to Virtual Reality|
+| 28.02.2024| Open discussion |
+| 27.03.2024| TBA |
+| 24.04.2024| TBA |
+| 22.05.2024| TBA |
+| 26.06.2024| TBA |
 
 -> You can find the past dates [below](#past-dates).
 
@@ -41,7 +44,9 @@ The past dates were mainly in English, so the notes are also mainly in English. 
 
 | Date | Topic | Notes & summaries |
 | ---------- |--------------| ----------:|
-| 2023-11-22 | Kubernetes: Overview & Introduction |[Notes #15](/notes/2023-11-22-HackyHour-15.md)
+| 24.01.2024 | Introduction to Virtual Reality| [Notes #16](/notes/2024-01-24-HackyHour-16.md)|
+| 27.12.2023 | No HackyHour due to Christmas vacations ||
+| 2023-11-22 | Kubernetes: Overview & Introduction |[Notes #15](/notes/2023-11-22-HackyHour-15.md)|
 | 2023-10-25 | Backups, Horse skull model in augmented reality|[Notes #14](/notes/2023-10-25-HackyHour-14.md)|
 | 2023-09-27 | Open Discussion |[Notes #13](/notes/2023-09-27-HackyHour-13.md)|
 | 2023-08-23 | **No event due to holidays**||
