@@ -25,14 +25,15 @@ Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer übe
  
 | Datum | Thema | Weitere Infos |
 | ---------- | ------------| ----------|
-| 28.02.2024| Offene Diskussion ||
-| 27.03.2024| Wird noch bekannt gegeben ||
-| 24.04.2024| Wird noch bekannt gegeben ||
-| 22.05.2024| Wird noch bekannt gegeben ||
+| 27.03.2024| Das [OwwerOrschelemProjekt][oop] stellt sich vor | CHALLENGE: Als Belohnung für jedes entdeckte (Geo-)Datenleck des Projekts bringen wir ein bisschen süßes Gehirnfutter mit. Unter denjenigen, denen es gelingt, aus den im Internet an verschiedenen Stellen publizierten Daten zum OwwerOrschelemProject eine genaue Lokalisierung des Fundortes abzuleiten (zulässig sind alle öffentlich gemachten Daten), verlosen wir einen "VisitorPass" mitsamt persönlicher Führung über das Bodendenkmal. Zwei kleine Bedingungen: Wir freuen uns darüber, wenn es Anliegern des Objektes gelingt, in etwa zu erkennen, wo wir forschen und akzeptieren deshalb nur Lokalisierungshinweise, die nicht ausschließlich für Ortskundige erkennbar sind. Außerdem gibt es einen ganz speziellen Sonderpreis für diejenigen, die das "EasterEgg" einer besonders "coolen" Location entdecken können.|
+| 24.04.2024| Das Opendata-Portal des DWD ||
+| 22.05.2024| Wird noch bekannt gegeben | Im Anschluss an die HackyHour findet im Makerspace die Mach-Nacht statt. "Mach-Nacht 2024: Erledige angefangene Projekte bei Pizza, Softdrinks und in bester Gesellschaft – bis 23:00 geöffnet! [keine Anmeldung nötig – Pizza wird um 19 Uhr bestellt]"([Makerspace Programm](https://makerspace-giessen.de/programm/))|
 | 26.06.2024| Wird noch bekannt gegeben ||
 
 -> Die vergangenen Termine findest du [weiter unten](#vergangene-termine).
- 
+
+ [oop]: owwerorschelemproject.wordpress.com
+
 ## Kontakt
 
 Solltest du ein Thema präsentieren wollen, kannst du einfach ein Issue im GitHub eröffnen oder [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) kontaktieren. Du hast auch immer die Möglichkeit bei der HackyHour selbst mit uns zu sprechen oder dein Thema direkt im Anschluss zu präsentieren, wenn noch Zeit ist. Die Vorträge sind frei gestaltbar.
@@ -45,6 +46,7 @@ wir Notizen in Deutsch und Englisch anzubieten.
 
 | Datum | Thema | Notizen & Zusammenfassungen |
 | ---------- |--------------| ----------:|
+| 28.02.2024| Offene Diskussion |[Notes #17](/notes/2024-02-28-HackyHour-17.md)|
 | 24.01.2024 | Einführung in die Virtual Reality (mit selber Ausprobieren)| [Notes #16](/notes/2024-01-24-HackyHour-16.md)
 | 27.12.2023 | Keine HackyHour wegen Weihnachtsferien ||
 | 2023-11-22 | Kubernetes: Überblick & Einführung |[Notes #15](/notes/2023-11-22-HackyHour-15.md)

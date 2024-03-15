@@ -24,15 +24,16 @@ You don't need to bring anything. If you have a laptop, bring it along; there's 
 
 In addition to the open discussion that is always possible, we always try to talk about at least one specific topic. Usually one person introduces the topic and then there is time for questions and discussion. If you would also like to present something, please get in touch with us (see contact below).
 
-| Date | Topic |
-| ---------- | ------------:|
-| 28.02.2024| Open discussion |
-| 27.03.2024| TBA |
-| 24.04.2024| TBA |
-| 22.05.2024| TBA |
-| 26.06.2024| TBA |
+| Date | Topic | Info |
+| ---------- | ---------- | ------------:|
+| 27.03.2024| The [OwwerOrschelemProjekt][oop] introduces itself | CHALLENGE: As a reward for every discovered (geo)data leak of the project, we will bring along some sweet brain food. We will be giving away a "VisitorPass" including a personal guided tour of the monument to those who manage to deduce the exact location of the site from the OwwerOrschelemProject data published in various places on the Internet (all data made public is permitted). Two small conditions: We are happy if people living near the site are able to recognize approximately where we are researching and therefore only accept localization clues that are not exclusively recognizable to those familiar with the site. There is also a very special prize for those who can discover the "EasterEgg" of a particularly "cool" location.(Automatic translation) |
+| 24.04.2024| The Opendata portal of the DWD ||
+| 22.05.2024| TBA | Following the HackyHour, the Makerspace will host the Make-Night. "Make-Night 2024: Finish your projects with pizza, soft drinks and the best company - open until 23:00! [no registration necessary - pizza will be ordered at 7 pm]"([Makerspace program](https://makerspace-giessen.de/programm/)) |
+| 26.06.2024| TBA ||
 
 -> You can find the past dates [below](#past-dates).
+
+ [oop]: owwerorschelemproject.wordpress.com
 
 ## Contact
 
@@ -44,6 +45,7 @@ The past dates were mainly in English, so the notes are also mainly in English. 
 
 | Date | Topic | Notes & summaries |
 | ---------- |--------------| ----------:|
+| 28.02.2024| Open discussion |[Notes #17 (German)](/notes/2024-02-28-HackyHour-17.md)|
 | 24.01.2024 | Introduction to Virtual Reality| [Notes #16](/notes/2024-01-24-HackyHour-16.md)|
 | 27.12.2023 | No HackyHour due to Christmas vacations ||
 | 2023-11-22 | Kubernetes: Overview & Introduction |[Notes #15](/notes/2023-11-22-HackyHour-15.md)|
