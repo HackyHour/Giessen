@@ -32,7 +32,7 @@ Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer übe
 
 -> Die vergangenen Termine findest du [weiter unten](#vergangene-termine).
 
- [oop]: owwerorschelemproject.wordpress.com
+ [oop]: https://owwerorschelemproject.wordpress.com/
 
 ## Kontakt
 
