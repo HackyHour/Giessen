@@ -51,8 +51,8 @@ wir Notizen in Deutsch und Englisch anzubieten.
 
 | Datum | Thema | Notizen & Zusammenfassungen |
 | ---------- |--------------| ----------:|
-| 24.04.2024 | Das Opendata-Portal des DWD |[Notes #19 (German)](/notes/2024-04-24-HackyHour-19.md) |
-| 27.03.2024 | Das [OwwerOrschelemProjekt][oop] stellt sich vor | [Notes #18 (German)](/notes/2024-03-27-HackyHour-18.md) |
+| 24.04.2024 | Das Opendata-Portal des DWD |[Notes #19](/notes/2024-04-24-HackyHour-19.md) |
+| 27.03.2024 | Das [OwwerOrschelemProjekt][oop] stellt sich vor | [Notes #18](/notes/2024-03-27-HackyHour-18.md) |
 | 28.02.2024 | Offene Diskussion |[Notes #17](/notes/2024-02-28-HackyHour-17.md)|
 | 24.01.2024 | Einführung in die Virtual Reality (mit selber Ausprobieren)| [Notes #16](/notes/2024-01-24-HackyHour-16.md)
 | 27.12.2023 | Keine HackyHour wegen Weihnachtsferien ||
