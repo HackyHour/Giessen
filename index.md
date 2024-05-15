@@ -25,7 +25,7 @@ Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer übe
  
 | Datum | Thema | Weitere Infos |
 | ---------- | ------------| ----------|
-| 22.05.2024| Offene Diskussion | Im Anschluss an die HackyHour findet im Makerspace die Mach-Nacht statt. "Mach-Nacht 2024: Erledige angefangene Projekte bei Pizza, Softdrinks und in bester Gesellschaft – bis 23:00 geöffnet! [keine Anmeldung nötig – Pizza wird um 19 Uhr bestellt]"([Makerspace Programm](https://makerspace-giessen.de/programm/))|
+| 22.05.2024| Offene Diskussion, "Blender statt Fusion, GeoNodes und procedural generation to the rescue" | Im Anschluss an die HackyHour findet im Makerspace die Mach-Nacht statt. "Mach-Nacht 2024: Erledige angefangene Projekte bei Pizza, Softdrinks und in bester Gesellschaft – bis 23:00 geöffnet! [keine Anmeldung nötig – Pizza wird um 19 Uhr bestellt]"([Makerspace Programm](https://makerspace-giessen.de/programm/))|
 | 26.06.2024| Wird noch bekannt gegeben ||
 | 26.06.2024| Wird noch bekannt gegeben ||
 | 24.07.2024| Wird noch bekannt gegeben ||

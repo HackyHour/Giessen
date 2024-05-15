@@ -26,7 +26,7 @@ In addition to the open discussion that is always possible, we always try to tal
 
 | Date | Topic | Info |
 | ---------- | ---------- | ------------:|
-| 22.05.2024 | Open Discussion | Following the HackyHour, the Makerspace will host the Make-Night. "Make-Night 2024: Finish your projects with pizza, soft drinks and the best company - open until 23:00! [no registration necessary - pizza will be ordered at 7 pm]"([Makerspace program](https://makerspace-giessen.de/programm/)) |
+| 22.05.2024 | Open Discussion, "Blender instead of Fusion, GeoNodes und procedural generation to the rescue" | Following the HackyHour, the Makerspace will host the Make-Night. "Make-Night 2024: Finish your projects with pizza, soft drinks and the best company - open until 23:00! [no registration necessary - pizza will be ordered at 7 pm]"([Makerspace program](https://makerspace-giessen.de/programm/)) |
 | 26.06.2024| TBA ||
 | 24.07.2024| TBA ||
 | 22.08.2024| No event due to holidays | 🏖️ |
