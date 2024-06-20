@@ -26,8 +26,8 @@ In addition to the open discussion that is always possible, we always try to tal
 
 | Date | Topic | Info |
 | ---------- | ---------- | ------------:|
-| 22.05.2024 | Open Discussion, "Blender instead of Fusion, GeoNodes und procedural generation to the rescue" | Following the HackyHour, the Makerspace will host the Make-Night. "Make-Night 2024: Finish your projects with pizza, soft drinks and the best company - open until 23:00! [no registration necessary - pizza will be ordered at 7 pm]"([Makerspace program](https://makerspace-giessen.de/programm/)) |
-| 26.06.2024| TBA ||
+
+| 26.06.2024| Query OpenStreetMap with Overpass turbo, Open Discussion ||
 | 24.07.2024| TBA ||
 | 22.08.2024| No event due to holidays | 🏖️ |
 | 25.09.2024| TBA ||
@@ -47,6 +47,7 @@ The past dates were mainly in English, so the notes are also mainly in English. 
 
 | Date | Topic | Notes & summaries |
 | ---------- |--------------| ----------:|
+| 22.05.2024 | Open Discussion, "Blender instead of Fusion, GeoNodes und procedural generation to the rescue" | Following the HackyHour, the Makerspace will host the Make-Night. "Make-Night 2024: Finish your projects with pizza, soft drinks and the best company - open until 23:00! [no registration necessary - pizza will be ordered at 7 pm]"([Makerspace program](https://makerspace-giessen.de/programm/)) |
 | 24.04.2024 | The Opendata portal of the DWD | [Notes #19 (German)](/notes/2024-04-24-HackyHour-19.md) |
 | 27.03.2024 | The [OwwerOrschelemProjekt][oop] introduces itself | [Notes #18 (German)](/notes/2024-03-27-HackyHour-18.md) |
 | 28.02.2024 | Open discussion |[Notes #17 (German)](/notes/2024-02-28-HackyHour-17.md)|
