@@ -25,9 +25,7 @@ Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer übe
  
 | Datum | Thema | Weitere Infos |
 | ---------- | ------------| ----------|
-| 26.06.2024| OpenStreetMap durchsuchen mit Overpass turbo, Offene Diskussion ||
-| 26.06.2024| Wird noch bekannt gegeben ||
-| 24.07.2024| Wird noch bekannt gegeben ||
+| 24.07.2024| Textsuche mit regulären Ausdrücken: Was ist das und wie nutze ich sie? ||
 | 22.08.2024| Keine HackyHour wegen Ferien  | 🏖️ |
 | 25.09.2024| Wird noch bekannt gegeben ||
 | 23.10.2024| Wird noch bekannt gegeben ||
@@ -50,7 +48,8 @@ wir Notizen in Deutsch und Englisch anzubieten.
 
 | Datum | Thema | Notizen & Zusammenfassungen |
 | ---------- |--------------| ----------:|
-| 22.05.2024| Offene Diskussion, "Blender statt Fusion, GeoNodes und procedural generation to the rescue" | Im Anschluss an die HackyHour findet im Makerspace die Mach-Nacht statt. "Mach-Nacht 2024: Erledige angefangene Projekte bei Pizza, Softdrinks und in bester Gesellschaft – bis 23:00 geöffnet! [keine Anmeldung nötig – Pizza wird um 19 Uhr bestellt]"([Makerspace Programm](https://makerspace-giessen.de/programm/))|
+| 26.06.2024 | OpenStreetMap durchsuchen mit Overpass turbo, Offene Diskussion |[Notes #21](/notes/2024-06-26-HackyHour-21.md) |
+| 22.05.2024 | Offene Diskussion, "Blender statt Fusion, GeoNodes und procedural generation to the rescue" | |
 | 24.04.2024 | Das Opendata-Portal des DWD |[Notes #19](/notes/2024-04-24-HackyHour-19.md) |
 | 27.03.2024 | Das [OwwerOrschelemProjekt][oop] stellt sich vor | [Notes #18](/notes/2024-03-27-HackyHour-18.md) |
 | 28.02.2024 | Offene Diskussion |[Notes #17](/notes/2024-02-28-HackyHour-17.md)|
