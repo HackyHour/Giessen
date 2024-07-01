@@ -34,8 +34,6 @@ Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer übe
 
 -> Die vergangenen Termine findest du [weiter unten](#vergangene-termine).
 
- [oop]: https://owwerorschelemproject.wordpress.com/
-
 ## Kontakt
 
 Solltest du ein Thema präsentieren wollen, kannst du einfach ein Issue im GitHub eröffnen oder [Christian Krippes](mailto:christian.krippes@bibsys.uni-giessen.de) kontaktieren. Du hast auch immer die Möglichkeit bei der HackyHour selbst mit uns zu sprechen oder dein Thema direkt im Anschluss zu präsentieren, wenn noch Zeit ist. Die Vorträge sind frei gestaltbar.
@@ -75,6 +73,7 @@ wir Notizen in Deutsch und Englisch anzubieten.
 | 2022-06-22 | Inkscape: Freely create print-ready scientific figures and posters. | [Notes #1](/notes/2022-06-22-HackyHour-1.md) |
 
 [hessenhub]:https://www.uni-giessen.de/de/fbz/zentren/zfbk/hessenhub/news/ki_hochschullehre
+[oop]: https://owwerorschelemproject.wordpress.com/
 
 ## Inspiration
 

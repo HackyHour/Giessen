@@ -26,8 +26,6 @@ In addition to the open discussion that is always possible, we always try to tal
 
 | Date | Topic | Info |
 | ---------- | ---------- | ------------:|
-
-
 | 24.07.2024| Text search with regular expressions: What is it and how do I use it?  ||
 | 22.08.2024| No event due to holidays | 🏖️ |
 | 25.09.2024| TBA ||
