@@ -25,9 +25,7 @@ Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer übe
  
 | Datum | Thema | Weitere Infos |
 | ---------- | ------------| ----------|
-| 24.07.2024| Textsuche mit regulären Ausdrücken: Was ist das und wie nutze ich sie? ||
-| 22.08.2024| Keine HackyHour wegen Ferien  | 🏖️ |
-| 25.09.2024| Wird noch bekannt gegeben ||
+| 25.09.2024| Einführung in eine einfache Datenanalyse in der Linux Shell | Es wird einige Übungen geben, um mitzumachen benötigst du daher einen Laptop mit einer Linux Distribution. Solltest du Windows installiert haben, dann kannst du bei dir das Windows-Subsystem für Linux (WSL) installieren und damit arbeiten. Mehr Infos zum WSL findest du bei Microsoft unter: https://learn.microsoft.com/de-de/windows/wsl/install |
 | 23.10.2024| Wird noch bekannt gegeben ||
 | 27.11.2024| Wird noch bekannt gegeben ||
 | 25.12.2024| Keine HackyHour wegen Weihnachtsferien  | 🎄️ |
@@ -46,6 +44,8 @@ wir Notizen in Deutsch und Englisch anzubieten.
 
 | Datum | Thema | Notizen & Zusammenfassungen |
 | ---------- |--------------| ----------:|
+| 22.08.2024 | Keine HackyHour wegen Ferien  | 🏖️ |
+| 24.07.2024 | Textsuche mit regulären Ausdrücken: Was ist das und wie nutze ich sie? ||
 | 26.06.2024 | OpenStreetMap durchsuchen mit Overpass turbo, Offene Diskussion |[Notes #21](/notes/2024-06-26-HackyHour-21.md) |
 | 22.05.2024 | Offene Diskussion, "Blender statt Fusion, GeoNodes und procedural generation to the rescue" | |
 | 24.04.2024 | Das Opendata-Portal des DWD |[Notes #19](/notes/2024-04-24-HackyHour-19.md) |
