@@ -26,7 +26,7 @@ In addition to the open discussion that is always possible, we always try to tal
 
 | Date | Topic | Info |
 | ---------- | ---------- | ------------:|
-| 25.09.2024 | Introduction to simple data analysis in the Linux shell | There will be some exercises, so you will need a laptop with a Linux distribution to participate. If you have Windows installed, you can install the Windows Subsystem for Linux (WSL) and work with it. You can find more information about WSL at Microsoft at: https://learn.microsoft.com/de-de/windows/wsl/install |
+| 25.09.2024 | Introduction to simple data analysis in the Linux shell | There will be some exercises, so you will need a laptop with a Linux distribution to participate. If you have Windows installed, you can install the Windows Subsystem for Linux (WSL) and work with it. You can find more information about WSL at Microsoft at: <https://learn.microsoft.com/de-de/windows/wsl/install> |
 | 25.09.2024| TBA ||
 | 23.10.2024| TBA ||
 | 27.11.2024| TBA ||

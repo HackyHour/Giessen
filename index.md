@@ -25,7 +25,7 @@ Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer übe
  
 | Datum | Thema | Weitere Infos |
 | ---------- | ------------| ----------|
-| 25.09.2024| Einführung in eine einfache Datenanalyse in der Linux Shell | Es wird einige Übungen geben, um mitzumachen benötigst du daher einen Laptop mit einer Linux Distribution. Solltest du Windows installiert haben, dann kannst du bei dir das Windows-Subsystem für Linux (WSL) installieren und damit arbeiten. Mehr Infos zum WSL findest du bei Microsoft unter: https://learn.microsoft.com/de-de/windows/wsl/install |
+| 25.09.2024| Einführung in eine einfache Datenanalyse in der Linux Shell | Es wird einige Übungen geben, um mitzumachen benötigst du daher einen Laptop mit einer Linux Distribution. Solltest du Windows installiert haben, dann kannst du bei dir das Windows-Subsystem für Linux (WSL) installieren und damit arbeiten. Mehr Infos zum WSL findest du bei Microsoft unter: <https://learn.microsoft.com/de-de/windows/wsl/install> |
 | 23.10.2024| Wird noch bekannt gegeben ||
 | 27.11.2024| Wird noch bekannt gegeben ||
 | 25.12.2024| Keine HackyHour wegen Weihnachtsferien  | 🎄️ |
