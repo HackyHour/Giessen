@@ -45,7 +45,7 @@ The past dates were mainly in English, so the notes are also mainly in English. 
 | Date | Topic | Notes & summaries |
 | ---------- |--------------| ----------:|
 | 22.08.2024| No event due to holidays | 🏖️ |
-| 24.07.2024| Text search with regular expressions: What is it and how do I use it?  ||
+| 24.07.2024| Text search with regular expressions: What is it and how do I use it?  |[Notes #22 (German)](/notes/2024-07-24-HackyHour-22.md)|
 | 26.06.2024| Query OpenStreetMap with Overpass turbo, Open Discussion |[Notes #21 (German)](/notes/2024-06-26-HackyHour-21.md)|
 | 22.05.2024 | Open Discussion, "Blender instead of Fusion, GeoNodes und procedural generation to the rescue" | |
 | 24.04.2024 | The Opendata portal of the DWD | [Notes #19 (German)](/notes/2024-04-24-HackyHour-19.md) |
