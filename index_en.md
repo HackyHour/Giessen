@@ -26,8 +26,7 @@ In addition to the open discussion that is always possible, we always try to tal
 
 | Date | Topic | Info |
 | ---------- | ---------- | ------------:|
-| 25.09.2024 | Introduction to simple data analysis in the Linux shell | There will be some exercises, so you will need a laptop with a Linux distribution to participate. If you have Windows installed, you can install the Windows Subsystem for Linux (WSL) and work with it. You can find more information about WSL at Microsoft at: <https://learn.microsoft.com/de-de/windows/wsl/install> |
-| 25.09.2024| TBA ||
+| 25.09.2024|  D.I.Y.: Create ChatBots and Agents with LangChain & LangGraph||
 | 23.10.2024| TBA ||
 | 27.11.2024| TBA ||
 | 25.12.2024| No event due to holidays | 🎄️ |
@@ -44,9 +43,10 @@ The past dates were mainly in English, so the notes are also mainly in English. 
 
 | Date | Topic | Notes & summaries |
 | ---------- |--------------| ----------:|
-| 22.08.2024| No event due to holidays | 🏖️ |
-| 24.07.2024| Text search with regular expressions: What is it and how do I use it?  |[Notes #22 (German)](/notes/2024-07-24-HackyHour-22.md)|
-| 26.06.2024| Query OpenStreetMap with Overpass turbo, Open Discussion |[Notes #21 (German)](/notes/2024-06-26-HackyHour-21.md)|
+| 25.09.2024 | Introduction to simple data analysis in the Linux shell |[Notes #23](/notes/2024-09-25-HackyHour-23.md)|
+| 22.08.2024 | No event due to holidays | 🏖️ |
+| 24.07.2024 | Text search with regular expressions: What is it and how do I use it?  |[Notes #22 (German)](/notes/2024-07-24-HackyHour-22.md)|
+| 26.06.2024 | Query OpenStreetMap with Overpass turbo, Open Discussion |[Notes #21 (German)](/notes/2024-06-26-HackyHour-21.md)|
 | 22.05.2024 | Open Discussion, "Blender instead of Fusion, GeoNodes und procedural generation to the rescue" | |
 | 24.04.2024 | The Opendata portal of the DWD | [Notes #19 (German)](/notes/2024-04-24-HackyHour-19.md) |
 | 27.03.2024 | The [OwwerOrschelemProjekt][oop] introduces itself | [Notes #18 (German)](/notes/2024-03-27-HackyHour-18.md) |

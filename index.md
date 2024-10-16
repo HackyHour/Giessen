@@ -25,10 +25,9 @@ Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer übe
  
 | Datum | Thema | Weitere Infos |
 | ---------- | ------------| ----------|
-| 25.09.2024| Einführung in eine einfache Datenanalyse in der Linux Shell | Es wird einige Übungen geben, um mitzumachen benötigst du daher einen Laptop mit einer Linux Distribution. Solltest du Windows installiert haben, dann kannst du bei dir das Windows-Subsystem für Linux (WSL) installieren und damit arbeiten. Mehr Infos zum WSL findest du bei Microsoft unter: <https://learn.microsoft.com/de-de/windows/wsl/install> |
-| 23.10.2024| Wird noch bekannt gegeben ||
-| 27.11.2024| Wird noch bekannt gegeben ||
-| 25.12.2024| Keine HackyHour wegen Weihnachtsferien  | 🎄️ |
+| 23.10.2024 | D.I.Y.: ChatBots und Agents mit LangChain & LangGraph erstellen | |
+| 27.11.2024 | Wird noch bekannt gegeben ||
+| 25.12.2024 | Keine HackyHour wegen Weihnachtsferien  | 🎄️ |
 
 -> Die vergangenen Termine findest du [weiter unten](#vergangene-termine).
 
@@ -44,6 +43,7 @@ wir Notizen in Deutsch und Englisch anzubieten.
 
 | Datum | Thema | Notizen & Zusammenfassungen |
 | ---------- |--------------| ----------:|
+| 25.09.2024 | Einführung in eine einfache Datenanalyse in der Linux Shell |[Notes #23](/notes/2024-09-25-HackyHour-23.md)|
 | 22.08.2024 | Keine HackyHour wegen Ferien  | 🏖️ |
 | 24.07.2024 | Textsuche mit regulären Ausdrücken: Was ist das und wie nutze ich sie? |[Notes #22](/notes/2024-07-24-HackyHour-22.md)||
 | 26.06.2024 | OpenStreetMap durchsuchen mit Overpass turbo, Offene Diskussion |[Notes #21](/notes/2024-06-26-HackyHour-21.md) |
