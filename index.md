@@ -25,7 +25,7 @@ Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer übe
  
 | Datum | Thema | Weitere Infos |
 | ---------- | ------------| ----------|
-| 23.10.2024 | D.I.Y.: ChatBots und Agents mit LangChain & LangGraph erstellen | |
+| 23.10.2024 | ~~D.I.Y.: ChatBots und Agents mit LangChain & LangGraph erstellen~~, Offene Diskussion | |
 | 27.11.2024 | Wird noch bekannt gegeben ||
 | 25.12.2024 | Keine HackyHour wegen Weihnachtsferien  | 🎄️ |
 

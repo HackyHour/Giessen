@@ -26,7 +26,7 @@ In addition to the open discussion that is always possible, we always try to tal
 
 | Date | Topic | Info |
 | ---------- | ---------- | ------------:|
-| 25.09.2024|  D.I.Y.: Create ChatBots and Agents with LangChain & LangGraph||
+| 25.09.2024| ~~D.I.Y.: Create ChatBots and Agents with LangChain & LangGraph~~, Open Discussion||
 | 23.10.2024| TBA ||
 | 27.11.2024| TBA ||
 | 25.12.2024| No event due to holidays | 🎄️ |
