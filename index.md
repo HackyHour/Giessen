@@ -25,7 +25,6 @@ Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer übe
  
 | Datum | Thema |
 | ---------- | ------------|
-
 | 28.10.2026 | **Linux-Installationsparty**<br>Linux ist gratis, sicher und datensparsam. Es gibt dir die volle Kontrolle über deinen Computer, spart Geld und öffnet dir die Tür zu einer riesigen, hilfsbereiten Community. Für alle, die produktiv und selbstbestimmt arbeiten wollen, ist Linux die erste Wahl. Zusammen mit dem Makerspace Gießen helfen wir euch bei der Installation und dem ersten Einstieg in Linux. Vortragssprache ist Deutsch, alle Helfer sprechen Englisch. Anmeldung unter: <https://pretix.eu/makerspace-giessen/linux/> |
 | 25.11.2026 | In Arbeit |
 
