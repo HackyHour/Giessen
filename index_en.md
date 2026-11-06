@@ -27,10 +27,14 @@ In addition to the open discussion that is always possible, we always try to tal
 
 | Date | Topic |
 | ---------- | ---------- |
-| 28 October 2026 | **Linux installation party**<br>Linux is free, secure, and privacy-friendly. It gives you full control over your laptop, saves you money, and opens the door to a huge, helpful community. For anyone who wants to work productively and independently, Linux is the top choice. Together with Makerspace Gießen, we’ll help you with the installation and your first steps with Linux. Presentations will be held in German; all helpers speak English. Register at: https://pretix.eu/makerspace-giessen/linux/ |
-| 25 November 2026 | In progress |
+| 25 November 2026 | **Third-Party Funding Monitor as an example of programming with AI.**<br>Roman Henke is the project manager for [DIGITRANSFER][digt] at the [JLU Start-up Centre][ecm]. As well as presenting the external funding monitor for start-up founders, he uses this in-house development to demonstrate the extent to which AI can help those without any programming experience, and where its limitations lie. <br>Language of the presentation: German |
+| 23.12.2026 | Winter break  🎄️ |
+| 27.01.2026 | SmartCity. Further details to follow |
 
 -> You can find the past dates [below](#past-dates).
+
+[digt]: https://www.uni-giessen.de/de/fbz/fb02/fb/einrichtungen/ecm/digit
+[ecm]: https://www.uni-giessen.de/de/fbz/fb02/fb/einrichtungen/ecm
 
 ## Contact
 
@@ -42,6 +46,7 @@ The past dates were mainly in English, so the notes are also mainly in English. 
 
 | Date | Topic | Notes & summaries |
 | ---------- |--------------| ----------:|
+| 28 October 2026 | **Linux installation party**<br>Linux is free, secure, and privacy-friendly. It gives you full control over your laptop, saves you money, and opens the door to a huge, helpful community. For anyone who wants to work productively and independently, Linux is the top choice. Together with Makerspace Gießen, we’ll help you with the installation and your first steps with Linux. Presentations will be held in German; all helpers speak English.|
 | 23 September 2026 | **Publication pipeline with Pandoc**<br>Christian Krippes is an employee of the University Library. In his presentation, he will explain how Pandoc can be used to generate texts in multiple formats and thus reach different target groups. Lecture language: German<br> |
 | 26 August 2026 |  **Agentic AI in Practice**<br>Christian Uhl is a researcher at the Centre for Applied Computer Science and Data Science, specialising in artificial intelligence. In his talk, he will demonstrate in a practical way how large language models can be used in an agentic manner today, what new opportunities this opens up, and how such approaches can be usefully integrated into your own projects. Afterwards, there will be time for questions, discussion and specific real-world use cases. Language of the talk: German<br><br>Afterwards Tobias Weiß ([tobias-weiss.org](https://tobias-weiss.org/)) will present **OpenDesk – Collaborative Office Cloud Suite** as a practical use case for agentic engineering. **[Slides](/notes/2026-08-26-presentations/opendesk_collaborative_office_12plus8.html)**||
 | 22 July 2026 | No HackyHour due to holidays 🏖️ ||

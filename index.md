@@ -25,10 +25,15 @@ Zusätzlich zu der immer möglichen offenen Diskussion, versuchen wir immer übe
  
 | Datum | Thema |
 | ---------- | ------------|
-| 28.10.2026 | **Linux-Installationsparty**<br>Linux ist gratis, sicher und datensparsam. Es gibt dir die volle Kontrolle über deinen Computer, spart Geld und öffnet dir die Tür zu einer riesigen, hilfsbereiten Community. Für alle, die produktiv und selbstbestimmt arbeiten wollen, ist Linux die erste Wahl. Zusammen mit dem Makerspace Gießen helfen wir euch bei der Installation und dem ersten Einstieg in Linux. Vortragssprache ist Deutsch, alle Helfer sprechen Englisch. Anmeldung unter: <https://pretix.eu/makerspace-giessen/linux/> |
-| 25.11.2026 | In Arbeit |
+| 25.11.2026 | **Drittmittelmonitor als Beispiel für Programmieren mit KI**.<br> Roman Henke ist Projektleiter von [DIGITRANSFER][digt] am [Gründungszentrum der JLU][ecm]. Neben der Vorstellung des Drittmittelmonitors für Gründerinnen und Gründer, zeigt er an dieser Eigenentwicklung, wie weit einem KI ohne Programmiererfahrungen helfen kann und wo die Grenzen liegen.|
+| 23.12.2026 | Winterpause  🎄️ |
+| 27.01.2026 | SmartCity. Details folgen |
+
 
 -> Die vergangenen Termine findest du [weiter unten](#vergangene-termine).
+
+[digt]: https://www.uni-giessen.de/de/fbz/fb02/fb/einrichtungen/ecm/digit
+[ecm]: https://www.uni-giessen.de/de/fbz/fb02/fb/einrichtungen/ecm
 
 ## Kontakt
 
@@ -42,6 +47,7 @@ wir Notizen in Deutsch und Englisch anzubieten.
 
 | Datum | Thema | Notizen & Zusammenfassungen |
 | ---------- |--------------| ----------:|
+| 28.10.2026 | **Linux-Installationsparty**<br>Linux ist gratis, sicher und datensparsam. Es gibt dir die volle Kontrolle über deinen Computer, spart Geld und öffnet dir die Tür zu einer riesigen, hilfsbereiten Community. Für alle, die produktiv und selbstbestimmt arbeiten wollen, ist Linux die erste Wahl. Zusammen mit dem Makerspace Gießen helfen wir euch bei der Installation und dem ersten Einstieg in Linux. Vortragssprache ist Deutsch, alle Helfer sprechen Englisch. Anmeldung unter: <https://pretix.eu/makerspace-giessen/linux/> |
 | 23.09.2026 | **Publikationspipeline mit Pandoc**<br>Christian Krippes ist Mitarbeiter der UB. In seinem Vortrag stellt er vor, wie man mithilfe von Pandoc seine Texte in multiplen Formaten erzeugen und so an unterschiedliche Zielgruppen ausspielen kann. Vortragssprache: Deutsch<br> |
 | 26.08.2026 | **Agentic AI in der Praxis**<br>Christian Uhl forscht am Zentrum für angewandte Informatik und Data Science mit Schwerpunkt Künstliche Intelligenz. In seinem Vortrag zeigt er praxisnah, wie Large Language Models heute agentisch genutzt werden können, welche neuen Möglichkeiten sich daraus ergeben und wie solche Ansätze sinnvoll in eigene Projekte integriert werden können. Im Anschluss gibt es Raum für Fragen, Diskussion und konkrete Anwendungsfälle aus der Praxis. Vortragssprache: Deutsch<br><br>Im Anschluss stellt Tobias Weiß ([tobias-weiss.org](https://tobias-weiss.org/)) **OpenDesk – Collaborative Office Cloud Suite** als praktischen Use Case für Agentic Engineering vor. **[Slides](/notes/2026-08-26-presentations/opendesk_collaborative_office_12plus8.html)** ||
 | 22.07.2026 | Die HackyHour macht Sommerpause 🏖️ ||
